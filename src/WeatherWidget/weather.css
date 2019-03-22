@@ -1,0 +1,37 @@
+.day {
+    color: white;
+    cursor: pointer;
+    border-bottom: 2px solid #23E9C8;
+    font-weight: bolder;
+    font-size:18px;
+
+}
+.normal {
+    color: black;
+    cursor: pointer;
+    font-weight: bolder;
+    font-size:18px
+}
+.dailyDetails {
+    color:white;
+    padding-top: 3%;
+    font-size:20px
+}
+
+.iconStyle {
+    color:white;
+    font-weight: bold;
+    font-size:60px
+}
+
+.percentStyle {
+    color:#222;
+    font-weight: bold;
+    font-size:30px;
+    margin-top: 5%
+}
+
+.percentStyle div {
+    font-size:15px;
+ 
+}
