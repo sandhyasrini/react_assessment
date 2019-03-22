@@ -8,7 +8,6 @@ In the project directory, you can run:
 ### `npm install`
 
 Downloads all the required dependencies.<br>
-(takes about a minute or two to download all modules)
 
 ### `npm start`
 
